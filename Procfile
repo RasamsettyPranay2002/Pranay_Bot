@@ -1,1 +1,1 @@
-worker: python Major_Project_Code.py
+worker: python Major_Project_Code.py 
